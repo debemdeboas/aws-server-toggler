@@ -122,7 +122,7 @@ def ready():
 
 root = tk.Tk()
 root.geometry('350x180')
-root.title('AnsibleSI Manager')
+root.title('AWS EC2 Manager')
 root.wm_resizable(False, False)
 root.iconbitmap('icon.ico')
 
